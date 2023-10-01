@@ -22,6 +22,27 @@ _Now after you have learned the basics of **game Designing** in general you will
 
 ### Tilemap
 * [TILEMAPS in Unity](https://youtu.be/ryISV_nH8qw?si=MRWKlQln6-GTYXzo).
-* [My Tileset Workflow](https://youtu.be/btnH0x7_1g8?si=g2OHwjLzo3fHqJZG)
-* [How to handle slopes in a Unity 2d platformer game](https://youtu.be/1E8AI5UgmAw?si=ZtVxr3UF9dtIxWt5)
+* [My Tileset Workflow](https://youtu.be/btnH0x7_1g8?si=g2OHwjLzo3fHqJZG).
+* [How to handle slopes in a Unity 2d platformer game](https://youtu.be/1E8AI5UgmAw?si=ZtVxr3UF9dtIxWt5).
 * [Tilemap & Tile Palette | Build a 2D Platformer Game in Unity](https://youtu.be/QkbGr1rAya8?si=OMo1gCyv_owvJZWA).
+
+### Background
+* [Background Types (and why Parallax is important)](https://youtube.com/shorts/S8vri9gxQHM?si=AmWoWWBQrZwjliI6).
+* [Unity Parallax Tutorial - How to infinite scrolling background](https://www.youtube.com/watch?v=zit45k6CUMk).
+* [How to make Parallax Backgrounds](https://www.youtube.com/watch?v=7_qw0tWR3yk).
+
+### Dynamic Lights 
+* [2D LEVEL DESIGN in Unity](https://www.youtube.com/watch?v=aBWRIEMRsf8).
+
+
+# **3D GAMES** :
+***you will learn how to make terrains And building up your level***
+
+### terrains
+* [How to Make Beautiful Terrain in Unity](https://www.youtube.com/watch?v=ddy12WHqt-M).
+
+### Building Levels
+* [MAKING YOUR FIRST LEVEL in Unity with ProBuilder!](https://www.youtube.com/watch?v=YtzIXCKr8Wo)
+
+### Enhance your skills in 3D level designing
+* [Level Design tutorial](https://www.youtube.com/playlist?list=PLsMV160Duh4yp-rbrIIaJTViXxSGQQFE0).
