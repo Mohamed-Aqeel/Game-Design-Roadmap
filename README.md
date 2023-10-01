@@ -15,3 +15,13 @@ Game designing is the process of creating the rules, mechanics, story, and aesth
 * [So You Wanna Make Games??](https://www.youtube.com/watch?v=yYYtBFSxoCg).
 * [What does a Game Designer REALLY do?](https://www.youtube.com/watch?v=ZEoyoXUoIX8).
 
+_Now after you have learned the basics of **game Designing** in general you will now learn how to Design levels in_ **2D games & 3D games**
+
+## **2D GAMES** :
+***you will learn how to make a tilemap ,Different types of backgrounds and dynamic Lights***
+
+### Tilemap
+* [TILEMAPS in Unity](https://youtu.be/ryISV_nH8qw?si=MRWKlQln6-GTYXzo).
+* [My Tileset Workflow](https://youtu.be/btnH0x7_1g8?si=g2OHwjLzo3fHqJZG)
+* [How to handle slopes in a Unity 2d platformer game](https://youtu.be/1E8AI5UgmAw?si=ZtVxr3UF9dtIxWt5)
+* [Tilemap & Tile Palette | Build a 2D Platformer Game in Unity](https://youtu.be/QkbGr1rAya8?si=OMo1gCyv_owvJZWA).
